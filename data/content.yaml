@@ -1,0 +1,71 @@
+BasicInfo:
+  FirstName: Максим
+  LastName: Трепалин
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: 89024664413
+    - Icon: fas fa-envelope
+      Info: imortallwelma@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Russia, Yoshar-Ola
+
+Profile: Обладаю пунктуальностью, ответственностью и устойчивостью. Добрый, отзывчивый, легко нахожу общий язык с людьми и умею работать в команде. Увлекаюсь видеоиграми и чтением. Стремлюсь к постоянному совершенствованию своих навыков и готов осваивать новые технологии и подходы в разработке.
+
+Experience:
+  - Employer: OMEGA-R
+    Place: Йошкар-Ола
+    Positions:
+      - Title: Андроид-Разработчик
+        Date: Июнь 2024 - Июль 2024
+        Details:
+          - Проходил учебную практику в компании Omega
+          - Разработал android приложение на Kotlin для создания списка дел, которые можно создавать, редактировать, группировать, удалять. Работал с библиотекой Jetpack Compose для создания экранов, интерфейса приложения и библиотекой Room для сохранения задач в БД SQLite.
+        Badges: ['Kotlin', 'SQLite', 'OOP', 'Java', 'Jetpack Compose', 'Room', 'MVVM']
+
+Education:
+  - Course: Факультет информатики и вычислительной техники, Программная инженерия
+    Place: Поволжский государственный технологический университет
+    Date: 2022 - 2026
+    Details: Веб-разработка, разработка оконных приложений
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - C++
+      - HTML
+      - Javascript
+      - CSS
+      - SQL
+      - Pascal
+      - Kotlin
+      - Typescript
+      - Golang
+  - Family: Frameworks
+    Items:
+      - Jetpack compose
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Visual Studio
+      - VS Code
+      - Android Studio
+      - Far
+
+Languages:
+  - Name: Русский
+    Level: Native
+  - Name: English
+    Level: B1
+
+
+Interests:
+  - Онлайн игры
+  - Настольный теннис
+  - Фильмы / сериалы
+  - Путешествия
+  - Программирование
